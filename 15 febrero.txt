@@ -2,4 +2,13 @@ git rm --cached <file>...
 git config --list
 git config --global user.email 'emerar.mct@gmail.com'
 
+git log <archivo>     ->Para solo obtener los commits de un determinado archivo
+
+git diff <hash1> <hash2>    ->Ver diferencias
+
+git checkout  <id_commit>
+
+
+
 Hola, este es un primer cambio.
+
