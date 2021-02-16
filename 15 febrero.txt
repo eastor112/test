@@ -1,0 +1,5 @@
+git rm --cached <file>...
+git config --list
+git config --global user.email 'emerar.mct@gmail.com'
+
+Hola, este es un primer cambio.
